@@ -2,6 +2,7 @@
 YOUR STYLES
 *******************/
 
+
 /* Title */
 
 article {
@@ -13,17 +14,28 @@ h1 {
     text-align: center;
 }
 
+
 /* Photo */
 
 img {
     align-content: center;
 }
 
+
 /* Bio */
 
 p {
     text-align: center;
 }
+
+
+/*Links*/
+
+ul {
+    list-style: none;
+    text-align: inline-block;
+}
+
 /* First Frame*/
 
 

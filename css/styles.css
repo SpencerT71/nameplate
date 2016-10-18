@@ -15,6 +15,15 @@ h1 {
 
 /* Photo */
 
+img {
+    align-content: center;
+}
+
+/* Bio */
+
+p {
+    text-align: center;
+}
 /* First Frame*/
 
 
